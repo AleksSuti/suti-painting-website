@@ -447,6 +447,46 @@ footer{
 .g-tile.t3{background:linear-gradient(135deg, #F3DCD2, #F3EAE1);}
 .g-tile.t4{background:linear-gradient(135deg, #F0DDBF, #F3EAE1);}
 
+/* ---------- Testimonials ---------- */
+.testimonial-card{
+  max-width:720px;
+  margin:0 auto;
+  text-align:center;
+  padding:0 20px;
+}
+.testimonial-quote-mark{
+  font-family:'Fraunces', serif;
+  font-size:4rem;
+  line-height:1;
+  color:var(--terracotta);
+  display:block;
+  margin-bottom:8px;
+}
+.testimonial-quote{
+  font-family:'Fraunces', serif;
+  font-size:1.3rem;
+  font-weight:500;
+  line-height:1.5;
+  color:var(--ink);
+  margin-bottom:24px;
+}
+.testimonial-stars{
+  color:var(--gold);
+  font-size:1.1rem;
+  letter-spacing:3px;
+  margin-bottom:14px;
+}
+.testimonial-author{
+  font-weight:600;
+  font-size:0.95rem;
+  color:var(--ink);
+  margin:0;
+}
+.testimonial-location{
+  font-weight:400;
+  color:var(--ink-soft);
+}
+
 /* ---------- Before/After project cards ---------- */
 .project-category{
   margin-bottom:64px;

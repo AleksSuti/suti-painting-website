@@ -74,6 +74,9 @@ en: {
   "home.area.card.title": "Not sure where to start?",
   "home.area.card.desc": "Tell us about your space and we'll walk you through options, materials and timing, with no pressure and no obligation.",
   "home.area.card.cta": "Request a Free Estimate",
+  "home.testimonials.eyebrow": "Testimonials",
+  "home.testimonials.title": "What our clients say",
+  "home.testimonials.city1": "Brussels",
 
   "home.ctaBand.title": "Ready for a fresh coat?",
   "home.ctaBand.lead": "Get a free, no-obligation estimate for your interior or exterior painting project.",
@@ -309,6 +312,9 @@ nl: {
   "home.area.card.title": "Niet zeker waar te beginnen?",
   "home.area.card.desc": "Vertel ons over uw ruimte en we bespreken graag de opties, materialen en timing, zonder druk en zonder verplichting.",
   "home.area.card.cta": "Vraag een Gratis Offerte",
+  "home.testimonials.eyebrow": "Getuigenissen",
+  "home.testimonials.title": "Wat onze klanten zeggen",
+  "home.testimonials.city1": "Brussel",
 
   "home.ctaBand.title": "Klaar voor een frisse laag verf?",
   "home.ctaBand.lead": "Vraag een gratis, vrijblijvende offerte voor uw interieur- of exterieurschilderproject.",
@@ -544,6 +550,9 @@ de: {
   "home.area.card.title": "Nicht sicher, wo Sie anfangen sollen?",
   "home.area.card.desc": "Erz\u00E4hlen Sie uns von Ihrem Raum. Wir besprechen gerne Optionen, Materialien und Zeitplan, ohne Druck und unverbindlich.",
   "home.area.card.cta": "Kostenlose Offerte Anfordern",
+  "home.testimonials.eyebrow": "Kundenstimmen",
+  "home.testimonials.title": "Was unsere Kunden sagen",
+  "home.testimonials.city1": "Br\u00FCssel",
 
   "home.ctaBand.title": "Bereit f\u00FCr einen frischen Anstrich?",
   "home.ctaBand.lead": "Fordern Sie ein kostenloses, unverbindliches Angebot f\u00FCr Ihr Innen- oder Au\u00DFenanstrichprojekt an.",
@@ -779,6 +788,9 @@ fr: {
   "home.area.card.title": "Vous ne savez pas par o\u00F9 commencer ?",
   "home.area.card.desc": "Parlez-nous de votre espace, nous vous pr\u00E9senterons les options, mat\u00E9riaux et d\u00E9lais, sans pression et sans engagement.",
   "home.area.card.cta": "Demander un Devis Gratuit",
+  "home.testimonials.eyebrow": "T\u00E9moignages",
+  "home.testimonials.title": "Ce que disent nos clients",
+  "home.testimonials.city1": "Bruxelles",
 
   "home.ctaBand.title": "Pr\u00EAt pour une nouvelle couche de peinture ?",
   "home.ctaBand.lead": "Demandez un devis gratuit et sans engagement pour votre projet de peinture int\u00E9rieure ou ext\u00E9rieure.",
