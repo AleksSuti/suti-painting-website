@@ -25,7 +25,7 @@ en: {
   "home.hero.ctaGhost": "View Services",
   "home.hero.badge1": "Residential, commercial & industrial",
   "home.hero.badge2": "Free, no-obligation quotes",
-  "home.hero.badge3": "Serving BE & LU",
+  "home.hero.badge3": "Serving BE, NL, LU & DE",
 
   "home.services.eyebrow": "What We Do",
   "home.services.title": "Painting & finishing services for every surface",
@@ -257,7 +257,7 @@ nl: {
   "home.hero.ctaGhost": "Bekijk Diensten",
   "home.hero.badge1": "Particulier, zakelijk & industrieel",
   "home.hero.badge2": "Gratis, vrijblijvende offertes",
-  "home.hero.badge3": "Actief in BE & LU",
+  "home.hero.badge3": "Actief in BE, NL, LU & DE",
 
   "home.services.eyebrow": "Wat Wij Doen",
   "home.services.title": "Schilder- en afwerkdiensten voor elk oppervlak",
@@ -489,7 +489,7 @@ de: {
   "home.hero.ctaGhost": "Leistungen Ansehen",
   "home.hero.badge1": "Privat, gewerblich & industriell",
   "home.hero.badge2": "Kostenlose, unverbindliche Angebote",
-  "home.hero.badge3": "T\u00E4tig in BE & LU",
+  "home.hero.badge3": "T\u00E4tig in BE, NL, LU & DE",
 
   "home.services.eyebrow": "Was Wir Tun",
   "home.services.title": "Maler- und Ausbauleistungen f\u00FCr jede Oberfl\u00E4che",
@@ -721,7 +721,7 @@ fr: {
   "home.hero.ctaGhost": "Voir les Services",
   "home.hero.badge1": "R\u00E9sidentiel, commercial & industriel",
   "home.hero.badge2": "Devis gratuits et sans engagement",
-  "home.hero.badge3": "Actif en BE & LU",
+  "home.hero.badge3": "Actif en BE, NL, LU & DE",
 
   "home.services.eyebrow": "Nos Services",
   "home.services.title": "Services de peinture et de finition pour chaque surface",
