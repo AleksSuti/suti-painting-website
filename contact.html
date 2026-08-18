@@ -88,7 +88,10 @@
       <div class="card">
         <h3 style="margin-bottom:6px;" data-i18n="contact.form.title">Request a free estimate</h3>
         <p style="margin-bottom:24px;" data-i18n="contact.form.lead">Fill in a few details and we'll get back to you shortly.</p>
-        <form class="quote-form">
+        <form class="quote-form" action="https://formsubmit.co/ajax/sutiedmond@gmail.com" method="POST">
+          <input type="hidden" name="_subject" value="New Free Estimate Request — Suti Painting & Finishes">
+          <input type="hidden" name="_template" value="table">
+          <input type="hidden" name="_captcha" value="false">
           <div class="form-row">
             <div class="form-field">
               <label for="name" data-i18n="contact.form.name">Full name</label>
@@ -119,7 +122,8 @@
             <textarea id="message" name="message" rows="4" placeholder="Room size, property type, timing, etc." data-i18n-placeholder="contact.form.message.placeholder"></textarea>
           </div>
           <button type="submit" class="btn btn-primary btn-block" data-i18n="contact.form.submit">Send Request</button>
-          <p class="form-note" data-i18n="contact.form.note">Submitting opens your email client with these details pre-filled &mdash; nothing is sent automatically.</p>
+          <p class="form-note" data-i18n="contact.form.note">We'll get back to you within one business day.</p>
+          <p class="form-status" style="display:none; margin-top:14px; font-weight:600; font-size:0.92rem;"></p>
         </form>
       </div>
     </div>

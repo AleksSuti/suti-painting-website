@@ -229,7 +229,10 @@ en: {
   "contact.form.message": "Tell us about your project",
   "contact.form.message.placeholder": "Room size, property type, timing, etc.",
   "contact.form.submit": "Send Request",
-  "contact.form.note": "Submitting opens your email client with these details pre-filled \u2014 nothing is sent automatically."
+  "contact.form.note": "We'll get back to you within one business day.",
+  "contact.form.sending": "Sending\u2026",
+  "contact.form.success": "Thanks \u2014 your request has been sent. We'll be in touch soon.",
+  "contact.form.error": "Something went wrong. Please call us directly at +32 491 10 74 28."
 },
 
 nl: {
@@ -461,7 +464,10 @@ nl: {
   "contact.form.message": "Vertel ons over uw project",
   "contact.form.message.placeholder": "Kamergrootte, type pand, timing, enz.",
   "contact.form.submit": "Verstuur Aanvraag",
-  "contact.form.note": "Bij verzenden opent uw e-mailprogramma met deze gegevens vooraf ingevuld \u2014 er wordt niets automatisch verzonden."
+  "contact.form.note": "We nemen binnen \u00E9\u00E9n werkdag contact met u op.",
+  "contact.form.sending": "Verzenden\u2026",
+  "contact.form.success": "Bedankt \u2014 uw aanvraag is verzonden. We nemen binnenkort contact met u op.",
+  "contact.form.error": "Er is iets misgegaan. Bel ons rechtstreeks op +32 491 10 74 28."
 },
 
 de: {
@@ -693,7 +699,10 @@ de: {
   "contact.form.message": "Erz\u00E4hlen Sie uns von Ihrem Projekt",
   "contact.form.message.placeholder": "Raumgr\u00F6\u00DFe, Objektart, Zeitplan, usw.",
   "contact.form.submit": "Anfrage Senden",
-  "contact.form.note": "Beim Absenden \u00F6ffnet sich Ihr E-Mail-Programm mit diesen Angaben vorausgef\u00FCllt \u2014 es wird nichts automatisch versendet."
+  "contact.form.note": "Wir melden uns innerhalb eines Werktags bei Ihnen.",
+  "contact.form.sending": "Wird gesendet\u2026",
+  "contact.form.success": "Danke \u2014 Ihre Anfrage wurde gesendet. Wir melden uns in K\u00FCrze bei Ihnen.",
+  "contact.form.error": "Etwas ist schiefgelaufen. Rufen Sie uns bitte direkt an unter +32 491 10 74 28."
 },
 
 fr: {
@@ -925,7 +934,10 @@ fr: {
   "contact.form.message": "Parlez-nous de votre projet",
   "contact.form.message.placeholder": "Taille de la pi\u00E8ce, type de propri\u00E9t\u00E9, d\u00E9lais, etc.",
   "contact.form.submit": "Envoyer la Demande",
-  "contact.form.note": "L'envoi ouvre votre client de messagerie avec ces d\u00E9tails pr\u00E9-remplis \u2014 rien n'est envoy\u00E9 automatiquement."
+  "contact.form.note": "Nous vous recontacterons dans un d\u00E9lai d'un jour ouvrable.",
+  "contact.form.sending": "Envoi en cours\u2026",
+  "contact.form.success": "Merci \u2014 votre demande a \u00E9t\u00E9 envoy\u00E9e. Nous vous recontacterons bient\u00F4t.",
+  "contact.form.error": "Une erreur s'est produite. Veuillez nous appeler directement au +32 491 10 74 28."
 }
 
 };
