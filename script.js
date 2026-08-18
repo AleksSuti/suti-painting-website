@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
       var service = encodeURIComponent(form.service.value || '');
       var message = encodeURIComponent(form.message.value || '');
       var body = 'Name: ' + name + '%0D%0APhone: ' + phone + '%0D%0AEmail: ' + email + '%0D%0AService: ' + service + '%0D%0A%0D%0A' + message;
-      window.location.href = 'mailto:info@sutipainting.example?subject=Free%20Estimate%20Request&body=' + body;
+      window.location.href = 'mailto:sutiedmond@gmail.com?subject=Free%20Estimate%20Request&body=' + body;
       setTimeout(function () { btn.textContent = original; }, 3000);
     });
   }

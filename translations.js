@@ -76,7 +76,7 @@ en: {
 
   "home.ctaBand.title": "Ready for a fresh coat?",
   "home.ctaBand.lead": "Get a free, no-obligation estimate for your interior or exterior painting project.",
-  "home.ctaBand.call": "Call 0491 10 74 28",
+  "home.ctaBand.call": "Call +32 491 10 74 28",
   "home.ctaBand.form": "Contact Form",
 
   "services.title": "Services | Suti Painting & Finishes",
@@ -124,7 +124,7 @@ en: {
 
   "services.ctaBand.title": "Have a project in mind?",
   "services.ctaBand.lead": "Tell us what you're working with and we'll put together a free estimate.",
-  "services.ctaBand.call": "Call 0491 10 74 28",
+  "services.ctaBand.call": "Call +32 491 10 74 28",
   "services.ctaBand.form": "Contact Form",
 
   "gallery.title": "Gallery | Suti Painting & Finishes",
@@ -161,7 +161,7 @@ en: {
 
   "gallery.ctaBand.title": "Want your project featured here?",
   "gallery.ctaBand.lead": "Get a free estimate and let's get started.",
-  "gallery.ctaBand.call": "Call 0491 10 74 28",
+  "gallery.ctaBand.call": "Call +32 491 10 74 28",
   "gallery.ctaBand.form": "Contact Form",
 
   "about.title": "About | Suti Painting & Finishes",
@@ -198,7 +198,7 @@ en: {
   "about.area.card.cta": "Contact Us",
 
   "contact.title": "Contact | Suti Painting & Finishes",
-  "contact.metaDescription": "Get a free painting estimate from Suti Painting & Finishes. Call 0491 10 74 28 or send us your project details.",
+  "contact.metaDescription": "Get a free painting estimate from Suti Painting & Finishes. Call +32 491 10 74 28 or send us your project details.",
   "contact.hero.eyebrow": "Contact",
   "contact.hero.title": "Let's talk about your project",
   "contact.hero.lead": "Call us directly or send your project details below. We'll get back to you with a free, no-obligation estimate.",
@@ -306,7 +306,7 @@ nl: {
 
   "home.ctaBand.title": "Klaar voor een frisse laag verf?",
   "home.ctaBand.lead": "Vraag een gratis, vrijblijvende offerte voor uw interieur- of exterieurschilderproject.",
-  "home.ctaBand.call": "Bel 0491 10 74 28",
+  "home.ctaBand.call": "Bel +32 491 10 74 28",
   "home.ctaBand.form": "Contactformulier",
 
   "services.title": "Diensten | Suti Painting & Finishes",
@@ -354,7 +354,7 @@ nl: {
 
   "services.ctaBand.title": "Heeft u een project in gedachten?",
   "services.ctaBand.lead": "Vertel ons waarmee u bezig bent en wij stellen een gratis offerte samen.",
-  "services.ctaBand.call": "Bel 0491 10 74 28",
+  "services.ctaBand.call": "Bel +32 491 10 74 28",
   "services.ctaBand.form": "Contactformulier",
 
   "gallery.title": "Galerij | Suti Painting & Finishes",
@@ -391,7 +391,7 @@ nl: {
 
   "gallery.ctaBand.title": "Wilt u uw project hier zien?",
   "gallery.ctaBand.lead": "Vraag een gratis offerte aan en we gaan van start.",
-  "gallery.ctaBand.call": "Bel 0491 10 74 28",
+  "gallery.ctaBand.call": "Bel +32 491 10 74 28",
   "gallery.ctaBand.form": "Contactformulier",
 
   "about.title": "Over Ons | Suti Painting & Finishes",
@@ -428,7 +428,7 @@ nl: {
   "about.area.card.cta": "Contacteer Ons",
 
   "contact.title": "Contact | Suti Painting & Finishes",
-  "contact.metaDescription": "Vraag een gratis schilderofferte aan bij Suti Painting & Finishes. Bel 0491 10 74 28 of stuur ons uw projectgegevens.",
+  "contact.metaDescription": "Vraag een gratis schilderofferte aan bij Suti Painting & Finishes. Bel +32 491 10 74 28 of stuur ons uw projectgegevens.",
   "contact.hero.eyebrow": "Contact",
   "contact.hero.title": "Laten we het over uw project hebben",
   "contact.hero.lead": "Bel ons rechtstreeks of stuur hieronder uw projectgegevens. We nemen contact op met een gratis, vrijblijvende offerte.",
@@ -536,7 +536,7 @@ de: {
 
   "home.ctaBand.title": "Bereit f\u00FCr einen frischen Anstrich?",
   "home.ctaBand.lead": "Fordern Sie ein kostenloses, unverbindliches Angebot f\u00FCr Ihr Innen- oder Au\u00DFenanstrichprojekt an.",
-  "home.ctaBand.call": "Anrufen 0491 10 74 28",
+  "home.ctaBand.call": "Anrufen +32 491 10 74 28",
   "home.ctaBand.form": "Kontaktformular",
 
   "services.title": "Leistungen | Suti Painting & Finishes",
@@ -584,7 +584,7 @@ de: {
 
   "services.ctaBand.title": "Haben Sie ein Projekt im Kopf?",
   "services.ctaBand.lead": "Erz\u00E4hlen Sie uns, woran Sie arbeiten, und wir erstellen ein kostenloses Angebot.",
-  "services.ctaBand.call": "Anrufen 0491 10 74 28",
+  "services.ctaBand.call": "Anrufen +32 491 10 74 28",
   "services.ctaBand.form": "Kontaktformular",
 
   "gallery.title": "Galerie | Suti Painting & Finishes",
@@ -621,7 +621,7 @@ de: {
 
   "gallery.ctaBand.title": "M\u00F6chten Sie Ihr Projekt hier sehen?",
   "gallery.ctaBand.lead": "Fordern Sie ein kostenloses Angebot an und wir legen los.",
-  "gallery.ctaBand.call": "Anrufen 0491 10 74 28",
+  "gallery.ctaBand.call": "Anrufen +32 491 10 74 28",
   "gallery.ctaBand.form": "Kontaktformular",
 
   "about.title": "\u00DCber Uns | Suti Painting & Finishes",
@@ -658,7 +658,7 @@ de: {
   "about.area.card.cta": "Kontaktieren Sie Uns",
 
   "contact.title": "Kontakt | Suti Painting & Finishes",
-  "contact.metaDescription": "Fordern Sie ein kostenloses Malerangebot von Suti Painting & Finishes an. Rufen Sie 0491 10 74 28 an oder senden Sie uns Ihre Projektdetails.",
+  "contact.metaDescription": "Fordern Sie ein kostenloses Malerangebot von Suti Painting & Finishes an. Rufen Sie +32 491 10 74 28 an oder senden Sie uns Ihre Projektdetails.",
   "contact.hero.eyebrow": "Kontakt",
   "contact.hero.title": "Lassen Sie uns \u00FCber Ihr Projekt sprechen",
   "contact.hero.lead": "Rufen Sie uns direkt an oder senden Sie unten Ihre Projektdetails. Wir melden uns mit einem kostenlosen, unverbindlichen Angebot.",
@@ -766,7 +766,7 @@ fr: {
 
   "home.ctaBand.title": "Pr\u00EAt pour une nouvelle couche de peinture ?",
   "home.ctaBand.lead": "Demandez un devis gratuit et sans engagement pour votre projet de peinture int\u00E9rieure ou ext\u00E9rieure.",
-  "home.ctaBand.call": "Appeler 0491 10 74 28",
+  "home.ctaBand.call": "Appeler +32 491 10 74 28",
   "home.ctaBand.form": "Formulaire de Contact",
 
   "services.title": "Services | Suti Painting & Finishes",
@@ -814,7 +814,7 @@ fr: {
 
   "services.ctaBand.title": "Vous avez un projet en t\u00EAte ?",
   "services.ctaBand.lead": "Dites-nous sur quoi vous travaillez et nous \u00E9tablirons un devis gratuit.",
-  "services.ctaBand.call": "Appeler 0491 10 74 28",
+  "services.ctaBand.call": "Appeler +32 491 10 74 28",
   "services.ctaBand.form": "Formulaire de Contact",
 
   "gallery.title": "Galerie | Suti Painting & Finishes",
@@ -851,7 +851,7 @@ fr: {
 
   "gallery.ctaBand.title": "Vous voulez voir votre projet ici ?",
   "gallery.ctaBand.lead": "Demandez un devis gratuit et lan\u00E7ons-nous.",
-  "gallery.ctaBand.call": "Appeler 0491 10 74 28",
+  "gallery.ctaBand.call": "Appeler +32 491 10 74 28",
   "gallery.ctaBand.form": "Formulaire de Contact",
 
   "about.title": "\u00C0 Propos | Suti Painting & Finishes",
@@ -888,7 +888,7 @@ fr: {
   "about.area.card.cta": "Nous Contacter",
 
   "contact.title": "Contact | Suti Painting & Finishes",
-  "contact.metaDescription": "Demandez un devis de peinture gratuit \u00E0 Suti Painting & Finishes. Appelez le 0491 10 74 28 ou envoyez-nous les d\u00E9tails de votre projet.",
+  "contact.metaDescription": "Demandez un devis de peinture gratuit \u00E0 Suti Painting & Finishes. Appelez le +32 491 10 74 28 ou envoyez-nous les d\u00E9tails de votre projet.",
   "contact.hero.eyebrow": "Contact",
   "contact.hero.title": "Parlons de votre projet",
   "contact.hero.lead": "Appelez-nous directement ou envoyez les d\u00E9tails de votre projet ci-dessous. Nous vous recontacterons avec un devis gratuit et sans engagement.",
