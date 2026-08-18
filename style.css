@@ -638,8 +638,8 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
 
 @media (max-width: 720px){
   nav.main-nav{
-    position:fixed;
-    top:81px; left:0; right:0;
+    position:absolute;
+    top:100%; left:0; right:0;
     background:var(--cream);
     flex-direction:column;
     align-items:flex-start;
