@@ -17,7 +17,7 @@ en: {
   "footer.servingArea": "Serving Belgium, the Netherlands, Luxembourg & Germany",
 
   "home.title": "Suti Painting & Finishes | Interior & Exterior Painters, Zutendaal",
-  "home.metaDescription": "Suti Painting & Finishes provides professional interior and exterior painting for homes and businesses across Belgium, the Netherlands, Luxembourg and Germany. Free estimates.",
+  "home.metaDescription": "Suti Painting & Finishes provides professional interior and exterior painting for homes and businesses in Zutendaal, Genk, Hasselt and across Belgium, the Netherlands, Luxembourg and Germany. Free estimates.",
   "home.hero.eyebrow": "Zutendaal & Surrounding Areas \u2014 Belgium, the Netherlands, Luxembourg & Germany",
   "home.hero.title": "Painting, done with a steady hand.",
   "home.hero.lead": "Interior and exterior painting for homes and businesses \u2014 and industrial protective coating for large-scale builds. Careful preparation and finishes built to last, from a single accent wall to structural steel.",
@@ -62,7 +62,7 @@ en: {
 
   "home.area.eyebrow": "Service Area",
   "home.area.title": "Based in Zutendaal, working across Belgium, the Netherlands, Luxembourg & Germany",
-  "home.area.lead": "We take on residential and commercial projects throughout the region, from single rooms to full-building repaints.",
+  "home.area.lead": "We take on residential and commercial projects throughout the region \u2014 including Zutendaal, Genk, Hasselt, Bilzen and Maastricht \u2014 from single rooms to full-building repaints.",
   "home.area.tag.zutendaal": "Zutendaal",
   "home.area.tag.belgium": "Belgium",
   "home.area.tag.netherlands": "Netherlands",
@@ -166,7 +166,7 @@ en: {
   "gallery.ctaBand.form": "Contact Form",
 
   "about.title": "About | Suti Painting & Finishes",
-  "about.metaDescription": "Suti Painting & Finishes is a professional painting company serving Zutendaal and surrounding areas across Belgium, the Netherlands, Luxembourg and Germany.",
+  "about.metaDescription": "Suti Painting & Finishes is a professional painting company serving Zutendaal, Genk, Hasselt and surrounding areas across Belgium, the Netherlands, Luxembourg and Germany.",
   "about.hero.eyebrow": "About Us",
   "about.hero.title": "Painting is detail work. We treat it that way.",
   "about.hero.lead": "Suti Painting & Finishes provides professional interior and exterior painting services for residential and commercial properties across Belgium, the Netherlands, Luxembourg and Germany \u2014 including industrial protective coating for structural steel on large-scale builds. We specialise in wall painting, ceiling painting, drywall repair, surface preparation, and high-quality finishes, with a focus on reliable service, attention to detail, and outstanding results on every project.",
@@ -189,7 +189,7 @@ en: {
 
   "about.area.eyebrow": "Where We Work",
   "about.area.title": "Based in Zutendaal, serving Belgium, the Netherlands, Luxembourg & Germany",
-  "about.area.lead": "We take on residential and commercial painting projects throughout the region \u2014 interior, exterior, and everything in between.",
+  "about.area.lead": "We take on residential and commercial painting projects throughout the region \u2014 including Zutendaal, Genk, Hasselt and Bilzen \u2014 interior, exterior, and everything in between.",
   "about.area.tag.zutendaal": "Zutendaal",
   "about.area.tag.belgium": "Belgium",
   "about.area.tag.netherlands": "Netherlands",
@@ -208,7 +208,7 @@ en: {
   "contact.getInTouch": "Get in touch",
   "contact.phone.label": "Phone",
   "contact.area.label": "Service Area",
-  "contact.area.value": "Zutendaal and surrounding areas \u2014 Belgium, the Netherlands, Luxembourg & Germany",
+  "contact.area.value": "Zutendaal, Genk, Hasselt, Bilzen and surrounding areas \u2014 Belgium, the Netherlands, Luxembourg & Germany",
   "contact.response.label": "Response Time",
   "contact.response.value": "We aim to respond to all estimate requests within one business day.",
   "contact.estimates.label": "Estimates",
@@ -252,7 +252,7 @@ nl: {
   "footer.servingArea": "Actief in Belgi\u00EB, Nederland, Luxemburg & Duitsland",
 
   "home.title": "Suti Painting & Finishes | Schilders Binnen & Buiten, Zutendaal",
-  "home.metaDescription": "Suti Painting & Finishes levert professioneel interieur- en exterieurschilderwerk voor woningen en bedrijven in Belgi\u00EB, Nederland, Luxemburg en Duitsland. Gratis offertes.",
+  "home.metaDescription": "Suti Painting & Finishes levert professioneel interieur- en exterieurschilderwerk voor woningen en bedrijven in Zutendaal, Genk, Hasselt en in Belgi\u00EB, Nederland, Luxemburg en Duitsland. Gratis offertes.",
   "home.hero.eyebrow": "Zutendaal & Omstreken \u2014 Belgi\u00EB, Nederland, Luxemburg & Duitsland",
   "home.hero.title": "Schilderwerk met een vaste hand.",
   "home.hero.lead": "Interieur- en exterieurschilderwerk voor woningen en bedrijven \u2014 en industri\u00EBle beschermende coating voor grootschalige projecten. Zorgvuldige voorbereiding en duurzame afwerking, van een enkele accentmuur tot staalconstructies.",
@@ -297,7 +297,7 @@ nl: {
 
   "home.area.eyebrow": "Werkgebied",
   "home.area.title": "Gevestigd in Zutendaal, actief in Belgi\u00EB, Nederland, Luxemburg & Duitsland",
-  "home.area.lead": "We nemen particuliere en zakelijke projecten aan in de hele regio, van enkele kamers tot volledige gevelrenovaties.",
+  "home.area.lead": "We nemen particuliere en zakelijke projecten aan in de hele regio \u2014 waaronder Zutendaal, Genk, Hasselt, Bilzen en Maastricht \u2014 van enkele kamers tot volledige gevelrenovaties.",
   "home.area.tag.zutendaal": "Zutendaal",
   "home.area.tag.belgium": "Belgi\u00EB",
   "home.area.tag.netherlands": "Nederland",
@@ -401,7 +401,7 @@ nl: {
   "gallery.ctaBand.form": "Contactformulier",
 
   "about.title": "Over Ons | Suti Painting & Finishes",
-  "about.metaDescription": "Suti Painting & Finishes is een professioneel schildersbedrijf actief in Zutendaal en omstreken, in Belgi\u00EB, Nederland, Luxemburg en Duitsland.",
+  "about.metaDescription": "Suti Painting & Finishes is een professioneel schildersbedrijf actief in Zutendaal, Genk, Hasselt en omstreken, in Belgi\u00EB, Nederland, Luxemburg en Duitsland.",
   "about.hero.eyebrow": "Over Ons",
   "about.hero.title": "Schilderen is precisiewerk. Zo behandelen wij het ook.",
   "about.hero.lead": "Suti Painting & Finishes levert professioneel interieur- en exterieurschilderwerk voor particuliere en zakelijke panden in Belgi\u00EB, Nederland, Luxemburg en Duitsland \u2014 inclusief industri\u00EBle beschermende coating voor staalconstructies bij grootschalige projecten. Wij zijn gespecialiseerd in muurschilderwerk, plafondschilderwerk, gipsplaatreparatie, oppervlaktevoorbereiding en hoogwaardige afwerking, met de nadruk op betrouwbare service, oog voor detail en uitstekende resultaten bij elk project.",
@@ -424,7 +424,7 @@ nl: {
 
   "about.area.eyebrow": "Waar Wij Werken",
   "about.area.title": "Gevestigd in Zutendaal, actief in Belgi\u00EB, Nederland, Luxemburg & Duitsland",
-  "about.area.lead": "We nemen particuliere en zakelijke schilderprojecten aan in de hele regio \u2014 interieur, exterieur, en alles daartussenin.",
+  "about.area.lead": "We nemen particuliere en zakelijke schilderprojecten aan in de hele regio \u2014 waaronder Zutendaal, Genk, Hasselt en Bilzen \u2014 interieur, exterieur, en alles daartussenin.",
   "about.area.tag.zutendaal": "Zutendaal",
   "about.area.tag.belgium": "Belgi\u00EB",
   "about.area.tag.netherlands": "Nederland",
@@ -443,7 +443,7 @@ nl: {
   "contact.getInTouch": "Neem contact op",
   "contact.phone.label": "Telefoon",
   "contact.area.label": "Werkgebied",
-  "contact.area.value": "Zutendaal en omstreken \u2014 Belgi\u00EB, Nederland, Luxemburg & Duitsland",
+  "contact.area.value": "Zutendaal, Genk, Hasselt, Bilzen en omstreken \u2014 Belgi\u00EB, Nederland, Luxemburg & Duitsland",
   "contact.response.label": "Reactietijd",
   "contact.response.value": "We streven ernaar om binnen \u00E9\u00E9n werkdag te reageren op alle offerte-aanvragen.",
   "contact.estimates.label": "Offertes",
@@ -487,7 +487,7 @@ de: {
   "footer.servingArea": "T\u00E4tig in Belgien, den Niederlanden, Luxemburg & Deutschland",
 
   "home.title": "Suti Painting & Finishes | Maler f\u00FCr Innen & Au\u00DFen, Zutendaal",
-  "home.metaDescription": "Suti Painting & Finishes bietet professionelle Innen- und Au\u00DFenanstriche f\u00FCr Wohn- und Gewerbeobjekte in Belgien, den Niederlanden, Luxemburg und Deutschland. Kostenlose Angebote.",
+  "home.metaDescription": "Suti Painting & Finishes bietet professionelle Innen- und Au\u00DFenanstriche f\u00FCr Wohn- und Gewerbeobjekte in Zutendaal, Genk, Hasselt und in Belgien, den Niederlanden, Luxemburg und Deutschland. Kostenlose Angebote.",
   "home.hero.eyebrow": "Zutendaal & Umgebung \u2014 Belgien, Niederlande, Luxemburg & Deutschland",
   "home.hero.title": "Malerarbeiten mit ruhiger Hand.",
   "home.hero.lead": "Innen- und Au\u00DFenanstriche f\u00FCr Wohn- und Gewerbeobjekte \u2014 sowie industrieller Korrosionsschutz f\u00FCr Gro\u00DFprojekte. Sorgf\u00E4ltige Vorbereitung und langlebige Oberfl\u00E4chen, von einer einzelnen Akzentwand bis zur Stahlkonstruktion.",
@@ -532,7 +532,7 @@ de: {
 
   "home.area.eyebrow": "Einsatzgebiet",
   "home.area.title": "Ans\u00E4ssig in Zutendaal, t\u00E4tig in Belgien, den Niederlanden, Luxemburg & Deutschland",
-  "home.area.lead": "Wir \u00FCbernehmen private und gewerbliche Projekte in der gesamten Region, von einzelnen R\u00E4umen bis zu kompletten Geb\u00E4udeanstrichen.",
+  "home.area.lead": "Wir \u00FCbernehmen private und gewerbliche Projekte in der gesamten Region \u2014 einschlie\u00DFlich Zutendaal, Genk, Hasselt, Bilzen und Maastricht \u2014 von einzelnen R\u00E4umen bis zu kompletten Geb\u00E4udeanstrichen.",
   "home.area.tag.zutendaal": "Zutendaal",
   "home.area.tag.belgium": "Belgien",
   "home.area.tag.netherlands": "Niederlande",
@@ -636,7 +636,7 @@ de: {
   "gallery.ctaBand.form": "Kontaktformular",
 
   "about.title": "\u00DCber Uns | Suti Painting & Finishes",
-  "about.metaDescription": "Suti Painting & Finishes ist ein professionelles Malerunternehmen, t\u00E4tig in Zutendaal und Umgebung, in Belgien, den Niederlanden, Luxemburg und Deutschland.",
+  "about.metaDescription": "Suti Painting & Finishes ist ein professionelles Malerunternehmen, t\u00E4tig in Zutendaal, Genk, Hasselt und Umgebung, in Belgien, den Niederlanden, Luxemburg und Deutschland.",
   "about.hero.eyebrow": "\u00DCber Uns",
   "about.hero.title": "Malern ist Detailarbeit. So behandeln wir es auch.",
   "about.hero.lead": "Suti Painting & Finishes bietet professionelle Innen- und Au\u00DFenanstriche f\u00FCr Wohn- und Gewerbeimmobilien in Belgien, den Niederlanden, Luxemburg und Deutschland \u2014 einschlie\u00DFlich industriellem Korrosionsschutz f\u00FCr Stahlkonstruktionen bei Gro\u00DFprojekten. Wir sind spezialisiert auf Wandanstrich, Deckenanstrich, Trockenbaureparatur, Oberfl\u00E4chenvorbereitung und hochwertige Oberfl\u00E4chen, mit Fokus auf zuverl\u00E4ssigen Service, Liebe zum Detail und herausragende Ergebnisse bei jedem Projekt.",
@@ -659,7 +659,7 @@ de: {
 
   "about.area.eyebrow": "Wo Wir Arbeiten",
   "about.area.title": "Ans\u00E4ssig in Zutendaal, t\u00E4tig in Belgien, den Niederlanden, Luxemburg & Deutschland",
-  "about.area.lead": "Wir \u00FCbernehmen private und gewerbliche Malerprojekte in der gesamten Region \u2014 innen, au\u00DFen und alles dazwischen.",
+  "about.area.lead": "Wir \u00FCbernehmen private und gewerbliche Malerprojekte in der gesamten Region \u2014 einschlie\u00DFlich Zutendaal, Genk, Hasselt und Bilzen \u2014 innen, au\u00DFen und alles dazwischen.",
   "about.area.tag.zutendaal": "Zutendaal",
   "about.area.tag.belgium": "Belgien",
   "about.area.tag.netherlands": "Niederlande",
@@ -678,7 +678,7 @@ de: {
   "contact.getInTouch": "Kontakt aufnehmen",
   "contact.phone.label": "Telefon",
   "contact.area.label": "Einsatzgebiet",
-  "contact.area.value": "Zutendaal und Umgebung \u2014 Belgien, Niederlande, Luxemburg & Deutschland",
+  "contact.area.value": "Zutendaal, Genk, Hasselt, Bilzen und Umgebung \u2014 Belgien, Niederlande, Luxemburg & Deutschland",
   "contact.response.label": "Reaktionszeit",
   "contact.response.value": "Wir bem\u00FChen uns, auf alle Angebotsanfragen innerhalb eines Werktags zu antworten.",
   "contact.estimates.label": "Angebote",
@@ -722,7 +722,7 @@ fr: {
   "footer.servingArea": "Actif en Belgique, aux Pays-Bas, au Luxembourg & en Allemagne",
 
   "home.title": "Suti Painting & Finishes | Peintres Int\u00E9rieur & Ext\u00E9rieur, Zutendaal",
-  "home.metaDescription": "Suti Painting & Finishes propose des services de peinture professionnels int\u00E9rieurs et ext\u00E9rieurs pour les maisons et entreprises en Belgique, aux Pays-Bas, au Luxembourg et en Allemagne. Devis gratuits.",
+  "home.metaDescription": "Suti Painting & Finishes propose des services de peinture professionnels int\u00E9rieurs et ext\u00E9rieurs pour les maisons et entreprises \u00E0 Zutendaal, Genk, Hasselt et en Belgique, aux Pays-Bas, au Luxembourg et en Allemagne. Devis gratuits.",
   "home.hero.eyebrow": "Zutendaal & Environs \u2014 Belgique, Pays-Bas, Luxembourg & Allemagne",
   "home.hero.title": "Peinture, r\u00E9alis\u00E9e d'une main s\u00FBre.",
   "home.hero.lead": "Peinture int\u00E9rieure et ext\u00E9rieure pour maisons et entreprises \u2014 ainsi que rev\u00EAtement de protection industriel pour les grands projets. Pr\u00E9paration soign\u00E9e et finitions durables, d'un simple mur d'accent \u00E0 l'acier de structure.",
@@ -767,7 +767,7 @@ fr: {
 
   "home.area.eyebrow": "Zone d'Intervention",
   "home.area.title": "Bas\u00E9s \u00E0 Zutendaal, actifs en Belgique, aux Pays-Bas, au Luxembourg & en Allemagne",
-  "home.area.lead": "Nous prenons en charge des projets r\u00E9sidentiels et commerciaux dans toute la r\u00E9gion, d'une simple pi\u00E8ce \u00E0 la r\u00E9novation compl\u00E8te d'un b\u00E2timent.",
+  "home.area.lead": "Nous prenons en charge des projets r\u00E9sidentiels et commerciaux dans toute la r\u00E9gion \u2014 y compris Zutendaal, Genk, Hasselt, Bilzen et Maastricht \u2014 d'une simple pi\u00E8ce \u00E0 la r\u00E9novation compl\u00E8te d'un b\u00E2timent.",
   "home.area.tag.zutendaal": "Zutendaal",
   "home.area.tag.belgium": "Belgique",
   "home.area.tag.netherlands": "Pays-Bas",
@@ -871,7 +871,7 @@ fr: {
   "gallery.ctaBand.form": "Formulaire de Contact",
 
   "about.title": "\u00C0 Propos | Suti Painting & Finishes",
-  "about.metaDescription": "Suti Painting & Finishes est une entreprise de peinture professionnelle active \u00E0 Zutendaal et ses environs, en Belgique, aux Pays-Bas, au Luxembourg et en Allemagne.",
+  "about.metaDescription": "Suti Painting & Finishes est une entreprise de peinture professionnelle active \u00E0 Zutendaal, Genk, Hasselt et ses environs, en Belgique, aux Pays-Bas, au Luxembourg et en Allemagne.",
   "about.hero.eyebrow": "\u00C0 Propos",
   "about.hero.title": "La peinture, c'est un travail de d\u00E9tail. Nous le traitons ainsi.",
   "about.hero.lead": "Suti Painting & Finishes propose des services de peinture int\u00E9rieure et ext\u00E9rieure professionnels pour les propri\u00E9t\u00E9s r\u00E9sidentielles et commerciales en Belgique, aux Pays-Bas, au Luxembourg et en Allemagne \u2014 y compris le rev\u00EAtement de protection industriel pour l'acier de structure sur des projets de grande envergure. Nous sommes sp\u00E9cialis\u00E9s dans la peinture murale, la peinture de plafond, la r\u00E9paration de placopl\u00E2tre, la pr\u00E9paration des surfaces et les finitions de haute qualit\u00E9, avec un accent sur un service fiable, le souci du d\u00E9tail et des r\u00E9sultats exceptionnels sur chaque projet.",
@@ -894,7 +894,7 @@ fr: {
 
   "about.area.eyebrow": "O\u00F9 Nous Travaillons",
   "about.area.title": "Bas\u00E9s \u00E0 Zutendaal, actifs en Belgique, aux Pays-Bas, au Luxembourg & en Allemagne",
-  "about.area.lead": "Nous prenons en charge des projets de peinture r\u00E9sidentiels et commerciaux dans toute la r\u00E9gion \u2014 int\u00E9rieur, ext\u00E9rieur, et tout ce qui se trouve entre les deux.",
+  "about.area.lead": "Nous prenons en charge des projets de peinture r\u00E9sidentiels et commerciaux dans toute la r\u00E9gion \u2014 y compris Zutendaal, Genk, Hasselt et Bilzen \u2014 int\u00E9rieur, ext\u00E9rieur, et tout ce qui se trouve entre les deux.",
   "about.area.tag.zutendaal": "Zutendaal",
   "about.area.tag.belgium": "Belgique",
   "about.area.tag.netherlands": "Pays-Bas",
@@ -913,7 +913,7 @@ fr: {
   "contact.getInTouch": "Nous Contacter",
   "contact.phone.label": "T\u00E9l\u00E9phone",
   "contact.area.label": "Zone d'Intervention",
-  "contact.area.value": "Zutendaal et environs \u2014 Belgique, Pays-Bas, Luxembourg & Allemagne",
+  "contact.area.value": "Zutendaal, Genk, Hasselt, Bilzen et environs \u2014 Belgique, Pays-Bas, Luxembourg & Allemagne",
   "contact.response.label": "D\u00E9lai de R\u00E9ponse",
   "contact.response.value": "Nous nous efforcons de r\u00E9pondre \u00E0 toutes les demandes de devis dans un d\u00E9lai d'un jour ouvrable.",
   "contact.estimates.label": "Devis",
