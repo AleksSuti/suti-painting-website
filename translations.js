@@ -163,6 +163,9 @@ en: {
   "gallery.coating.caption2": "Rooftop canopy framing, coated in place against exposed weather conditions.",
   "gallery.coating.caption3": "Exposed steel canopy structure, coated for long-term weather and corrosion resistance.",
 
+  "gallery.facebook.title": "See more photos & videos on Facebook",
+  "gallery.facebook.desc": "We regularly post project videos, extra photos and behind-the-scenes updates on our Facebook page, more than we can fit here.",
+  "gallery.facebook.cta": "Visit Our Facebook Page",
   "gallery.ctaBand.title": "Want your project featured here?",
   "gallery.ctaBand.lead": "Get a free estimate and let's get started.",
   "gallery.ctaBand.call": "Call +32 491 10 74 28",
@@ -401,6 +404,9 @@ nl: {
   "gallery.coating.caption2": "Luifelconstructie op het dak, ter plaatse gecoat tegen blootgestelde weersomstandigheden.",
   "gallery.coating.caption3": "Blootgestelde stalen luifelconstructie, gecoat voor langdurige weer- en corrosiebestendigheid.",
 
+  "gallery.facebook.title": "Meer foto's & video's op Facebook",
+  "gallery.facebook.desc": "We plaatsen regelmatig projectvideo's, extra foto's en updates achter de schermen op onze Facebookpagina, meer dan we hier kunnen tonen.",
+  "gallery.facebook.cta": "Bezoek Onze Facebookpagina",
   "gallery.ctaBand.title": "Wilt u uw project hier zien?",
   "gallery.ctaBand.lead": "Vraag een gratis offerte aan en we gaan van start.",
   "gallery.ctaBand.call": "Bel +32 491 10 74 28",
@@ -639,6 +645,9 @@ de: {
   "gallery.coating.caption2": "Dachvordach-Konstruktion, vor Ort gegen Witterungseinfl\u00FCsse beschichtet.",
   "gallery.coating.caption3": "Freiliegende Stahlvordach-Konstruktion, f\u00FCr langfristigen Witterungs- und Korrosionsschutz beschichtet.",
 
+  "gallery.facebook.title": "Weitere Fotos & Videos auf Facebook",
+  "gallery.facebook.desc": "Wir posten regelm\u00E4\u00DFig Projektvideos, zus\u00E4tzliche Fotos und Einblicke hinter die Kulissen auf unserer Facebook-Seite, mehr als wir hier zeigen k\u00F6nnen.",
+  "gallery.facebook.cta": "Besuchen Sie Unsere Facebook-Seite",
   "gallery.ctaBand.title": "M\u00F6chten Sie Ihr Projekt hier sehen?",
   "gallery.ctaBand.lead": "Fordern Sie ein kostenloses Angebot an und wir legen los.",
   "gallery.ctaBand.call": "Anrufen +32 491 10 74 28",
@@ -877,6 +886,9 @@ fr: {
   "gallery.coating.caption2": "Charpente d'auvent en toiture, rev\u00EAtue sur place contre les conditions m\u00E9t\u00E9orologiques.",
   "gallery.coating.caption3": "Structure d'auvent en acier expos\u00E9e, rev\u00EAtue pour une r\u00E9sistance durable aux intemp\u00E9ries et \u00E0 la corrosion.",
 
+  "gallery.facebook.title": "Plus de photos et vid\u00E9os sur Facebook",
+  "gallery.facebook.desc": "Nous publions r\u00E9guli\u00E8rement des vid\u00E9os de projets, des photos suppl\u00E9mentaires et des coulisses sur notre page Facebook, bien plus que ce que nous pouvons montrer ici.",
+  "gallery.facebook.cta": "Visitez Notre Page Facebook",
   "gallery.ctaBand.title": "Vous voulez voir votre projet ici ?",
   "gallery.ctaBand.lead": "Demandez un devis gratuit et lan\u00E7ons-nous.",
   "gallery.ctaBand.call": "Appeler +32 491 10 74 28",
