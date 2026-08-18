@@ -418,6 +418,63 @@ footer{
 .g-tile.t3{background:linear-gradient(135deg, #F3DCD2, #F3EAE1);}
 .g-tile.t4{background:linear-gradient(135deg, #F0DDBF, #F3EAE1);}
 
+/* ---------- Before/After project cards ---------- */
+.project-category{
+  margin-bottom:64px;
+}
+.project-category:last-child{margin-bottom:0;}
+.category-head{
+  display:flex;
+  align-items:baseline;
+  justify-content:space-between;
+  gap:20px;
+  margin-bottom:28px;
+  padding-bottom:16px;
+  border-bottom:2px solid var(--ink);
+  flex-wrap:wrap;
+}
+.category-head h2{margin-bottom:0;}
+.category-head .count{
+  font-size:0.85rem;
+  color:var(--ink-soft);
+  font-weight:500;
+}
+.ba-pair{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:2px;
+  margin-bottom:16px;
+  border-radius:3px;
+  overflow:hidden;
+  background:var(--ink);
+}
+.ba-item{position:relative;}
+.ba-item img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  aspect-ratio:4/3;
+  display:block;
+}
+.ba-tag{
+  position:absolute;
+  top:14px; left:14px;
+  background:var(--ink);
+  color:var(--cream);
+  font-size:0.72rem;
+  font-weight:700;
+  letter-spacing:0.08em;
+  text-transform:uppercase;
+  padding:6px 12px;
+  border-radius:20px;
+}
+.ba-item.after .ba-tag{background:var(--terracotta);}
+.ba-caption{
+  font-size:0.92rem;
+  color:var(--ink-soft);
+  margin-bottom:0;
+}
+
 /* ---------- About page ---------- */
 .about-hero-grid{
   display:grid;
@@ -578,4 +635,6 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   .gallery-grid{grid-template-columns:1fr 1fr;}
   .stat-row{grid-template-columns:1fr;}
   .value-item{grid-template-columns:50px 1fr;}
+  .ba-pair{grid-template-columns:1fr;}
+  .category-head{flex-direction:column; align-items:flex-start; gap:6px;}
 }
