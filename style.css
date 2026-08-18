@@ -634,6 +634,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   .footer-grid{grid-template-columns:1fr 1fr;}
   .gallery-grid{grid-template-columns:repeat(2,1fr);}
   .gallery-grid .g-item.wide{grid-column:span 2;}
+  .brand img{height:85px; width:auto;}
 }
 
 @media (max-width: 720px){
@@ -654,6 +655,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   .menu-toggle{display:block;}
   .header-cta .phone-link{display:none;}
   .lang-btn{padding:5px 8px; font-size:0.72rem;}
+  .brand img{height:60px !important; width:auto !important; max-width:none !important;}
   .grid-3{grid-template-columns:1fr;}
   .grid-2{grid-template-columns:1fr;}
   .steps{grid-template-columns:1fr;}
